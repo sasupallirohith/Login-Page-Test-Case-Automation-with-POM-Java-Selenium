@@ -37,6 +37,16 @@ pom.xml
 - Password masking and unmasking toggle
 - Presence of input fields, login button, eye icon
 
+## 📄 Manual Test Cases
+Manual test cases are included in this repo:  
+📁 [`LoginPage_TestCases.xlsx`](./LoginPage_TestCases.xlsx)
+
+The file contains:
+- ✅ Functional test cases  
+- ❌ Negative scenarios  
+- 👁 UI validations  
+- 📏 Boundary conditions
+  
 ---
 
 👨‍💻 Author: Rohith
