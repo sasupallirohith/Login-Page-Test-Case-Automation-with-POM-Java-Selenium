@@ -39,7 +39,7 @@ pom.xml
 
 ## 📄 Manual Test Cases
 Manual test cases are included in this repo:  
-📁 [`LoginPage_TestCases.xlsx`](./LoginPage_TestCases.xlsx)
+📁 manual-test-cases/Janitri_Login_TestCases.xlsx
 
 The file contains:
 - ✅ Functional test cases  
